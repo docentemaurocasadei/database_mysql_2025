@@ -1,0 +1,1 @@
+CREATE database gestione_corsi;
